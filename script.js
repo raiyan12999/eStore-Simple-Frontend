@@ -1,4 +1,4 @@
-const API_BASE = 'estore-production-906a.up.railway.app/api';
+const API_BASE = 'https://estore-production-906a.up.railway.app/api';
         let categories = [];
 
         function showSection(sectionId) {
