@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'estore-production-906a.up.railway.app/api';
         let categories = [];
 
         function showSection(sectionId) {
